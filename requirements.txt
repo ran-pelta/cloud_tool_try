@@ -21,7 +21,7 @@ entrypoints==0.4
 fastjsonschema==2.15.3
 #Fiona @ file:///C:/Users/ran/geopandas_dependencies_py37/Fiona-1.8.18-cp37-cp37m-win_amd64.whl
 fonttools==4.33.3
-GDAL @ file:///C:/Users/ran/geopandas_dependencies_py37/GDAL-3.2.2-cp37-cp37m-win_amd64.whl
+# GDAL @ file:///C:/Users/ran/geopandas_dependencies_py37/GDAL-3.2.2-cp37-cp37m-win_amd64.whl
 geopandas @ file:///C:/Users/ran/geopandas_dependencies_py37/geopandas-0.9.0-py3-none-any.whl
 idna==3.3
 importlib-metadata==4.11.3
