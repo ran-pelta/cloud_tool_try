@@ -21,7 +21,7 @@ entrypoints==0.4
 fastjsonschema==2.15.3
 Fiona==1.8.18
 fonttools==4.33.3
-GDAL==3.5.0
+# GDAL==3.5.0
 geopandas==0.9.0
 idna==3.3
 importlib-metadata==4.11.3
@@ -71,6 +71,7 @@ pytz==2022.1
 # pywin32==304
 #pywinpty==2.0.5
 pyzmq==22.3.0
+rasterio==1.2.10 
 requests==2.27.1
 Send2Trash==1.8.0
 Shapely==1.7.1
